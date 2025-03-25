@@ -1,7 +1,7 @@
 # Home
 ## Wat GRIP doet
 
-GRIP berekent hoeveel stikstofdepositie je kan verminderen op Natura2000 gebieden wanneer maatregelen emissies reduceren op bepaalde locaties. U kunt een eigen strategie ontwerpen, daar meerdere maatregelen aan toevoegen en handmatig invoeren in welke sectoren, in welk jaartal en met welke stof (NH3/NOx) je een emissiereductie wil doorrekenen. Met GRIP kan je vervolgens inzien hoeveel reductie van stikstofdepositie je dankzij deze strategie kan verwachten, en of je daarmee jouw zelf ingestelde doelen gaat behalen op het natuurgebied van interesse.
+GRIP berekent hoeveel stikstofdepositie je kan verminderen op Natura2000-gebieden wanneer maatregelen emissies reduceren op bepaalde locaties. U kunt een eigen strategie ontwerpen, daar meerdere maatregelen aan toevoegen en handmatig invoeren in welke sectoren, in welk jaartal en met welke stof (NH<sub>3</sub>/NO<sub>x</sub>) je een emissiereductie wil doorrekenen. GRIP geeft vervolgens weer hoeveel reductie van stikstofdepositie dankzij deze strategie denkbaar is, en of de zelf ingestelde doelen op het natuurgebied van interesse gehaald zullen worden.
   
 GRIP gebruikt hiervoor een Source-Receptor Matrix. Dit is een slimme tabel die laat zien hoeveel stikstof van verschillende locaties terechtkomt in elk stukje natuur. Doordat de relaties tussen bronnen en natuurgebieden nauwkeurig zijn vastgelegd, kunnen veranderingen aan de bronnen snel worden doorgerekend naar verwachte veranderingen in stikstofdepositie.
 
