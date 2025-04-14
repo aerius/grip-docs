@@ -1,9 +1,9 @@
 # Resultaten: Doel
-**Wat ziet u op dit scherm?**
+## **Wat ziet u op dit scherm?**
 
 Dit resultaatscherm laat zien of u uw doelen haalt met de maatregelen in uw strategie. Per doel (en doelgebied) wordt getoond of het doel gehaald wordt en wat het resultaat is.
 
-## **Tabel: doelbereik**
+### **Tabel: doelbereik**
 
 De tabel toont voor elk doelgebied of het gestelde doel bereikt wordt. De kolommen van de tabel bevatten:
 
@@ -11,7 +11,7 @@ De tabel toont voor elk doelgebied of het gestelde doel bereikt wordt. De kolomm
 * **Behaald resultaat**: Wat uw strategie daadwerkelijk bereikt  
 * **Status**: Directe zichtbaarheid in hoeverre het doel is gehaald
 
-## **Kaartweergave**
+### **Kaartweergave**
 
 * **Deze functie volgt later.** Alle gekozen doelgebieden worden op de kaart getoond, dit bevat geen informatie over uw doelen.
 
