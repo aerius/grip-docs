@@ -1,22 +1,22 @@
-# Wat is een doelgebied?
+# Doel en Doelgebied
+## Wat is een doelgebied?
 Een **doelgebied** is het Natura 2000-gebied waarop u de effecten van uw strategie wilt analyseren. Voor dit doelgebied krijgt u de stikstofdepositie in meerdere varianten: in het basisjaar 2023, in een prognosejaar en na het doorvoeren van uw strategie. U kunt een of meerdere doelgebieden kiezen, en voor al deze gebieden de resultaten bekijken.
 
 In de keuzelijst kunt u een selectie maken uit de Natura 2000-gebieden in Nederland. U kunt ook rechtstreeks op de kaart uw gewenste doelgebieden selecteren.
 ## Doelen kiezen: vijf opties
 Per doelgebied kunt u een doel kiezen. Mogelijk zijn er beleidsdoelen voor dit natuurgebied, of heeft u een eigen doel dat u met de strategie wilt bereiken. Er zijn vijf verschillende opties.
 
-1. ### Depositiereductie op gehele natuurgebied
+1. ### Reductie depositie
 
-**Doel:** Verminderen van stikstofdepositie. 
+**Doel:** Verminderen van stikstofdepositie op het gehele natuurgebied. 
 
 Dit kunt u op twee manieren uitdrukken: vermindering van de depositievracht, of vermindering van de gemiddelde depositie.
 
-**Depositievracht:** Totale jaarlijkse stikstofdepositie in het gehele gebied. Voer het doel in, uitgedrukt in:
-- Absolute reductie (mol N/j)  
-- Relatieve reductie t.o.v. 2023 (%)
-
-**Gemiddelde depositie:** Depositievracht gedeeld door de oppervlakte van de stikstofgevoelige natuur in het gebied. 
-- Dit doel is uitgedrukt in mol N/ha/j.
+- **Depositievracht:** Totale jaarlijkse stikstofdepositie in het gehele gebied. Voer het doel in, uitgedrukt in:
+  - Absolute reductie (mol N/j)  
+  - Relatieve reductie t.o.v. 2023 (%)
+- **Gemiddelde depositie:** Depositievracht gedeeld door de oppervlakte van de stikstofgevoelige natuur in het gebied. 
+  - Dit doel is uitgedrukt in mol N/ha/j.
 
 2. ### Minimale reductie op ieder hexagoon
 

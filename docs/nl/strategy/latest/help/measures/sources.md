@@ -1,7 +1,8 @@
 # Type maatregel: Emissiereductie
+## Wat kan ik met deze maatregel?
+In dit scherm kunt u daadwerkelijk aan de emissieknoppen gaan draaien. Met deze toepassing kunt u handmatig de effecten van een denkbare maatregel invoeren. Dit scherm toont u de emissies (NOx en NH3) in het toepassingsgebied, in het jaartal dat u in de uitganspunten geselecteerd hebt. Met deze 
 
-In dit scherm kunt u daadwerkelijk aan de emissieknoppen gaan draaien. Met deze toepassing kunt u handmatig de effecten van een denkbare maatregel invoeren.   
-Houdt dus uw eigen maatregelen in het achterhoofd (en verander eventueel zelfs de naam van de maatregel daarin) en vul de te verwachten emissie-effecten van de maatregel hier in. 
+Houdt uw eigen beleidsplannen in het achterhoofd (verander eventueel zelfs de naam van de maatregel daarin) en vul de te verwachten emissie-effecten van het beleid hier in. 
 
 Uw strategie kan uit meerdere maatregelen bestaan, dus experimenteer vrijuit met de schuifjes om uw strategie vorm te geven op een manier die bij u past. Wanneer u tevreden bent over de totale emissiereductie van uw strategie kunt u de depositie-effecten gaan berekenen. Dit kan tot zo’n 10 minuten duren, (of bij landelijke maatregelen zelfs langer) dus zorg ervoor dat u de strategie goed heeft doordacht.
 
