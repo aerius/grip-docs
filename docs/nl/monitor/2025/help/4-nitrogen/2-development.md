@@ -7,7 +7,8 @@ In de roze balk in het midden van de staven is de gemiddelde depositie voor het 
 
 Het getal rechts van de staven is het 90-percentiel van de voorkomende depositiewaarden in het gebied. Dit betekent dat voor 90% van alle beschouwde hexagonen geldt dat de depositie lager is dan of gelijk aan deze waarde.
 Het getal links van de staaf is het 10-percentiel van de voorkomende depositiewaarden. Dit betekent dat voor 10% van alle beschouwde hexagonen geldt dat de depositie lager is dan of gelijk aan deze waarde.
-Indien er 28 of minder hexagonen aanwezig zijn dan wordt de roze balk met percentielwaarden niet getoond.
+
+Indien er 28 of minder hexagonen aanwezig zijn in de selectie dan wordt de roze balk met percentielwaarden niet getoond, enkel het gewogen gemiddelde.
 
 De jaren zijn verdeeld in historische jaren, prognosejaren en doorkijkjaren, omdat de data een verschillend karakter heeft voor deze categorieen. De data voor historische jaren is berekend met door het CBS verzamelde emissiestatistieken op een hoog ruimtelijk detailniveau. De prognosejaren zijn gebaseerd op emissieprognoses van het PBL, waarin beleid en economische ontwikkelingen worden meegenomen. Voor het jaar 2040 (doorkijkjaar) wordt de data alleen geagreggeerd per natuurgebied getoond. De doorkijkjaren kennen een grotere onzekerheid dan de prognosejaren, en daarom wordt voor deze jaren maar een beperkt aantal depositiestatistieken doorgerekend.
 
