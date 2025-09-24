@@ -12,4 +12,4 @@ Indien er 28 of minder hexagonen aanwezig zijn in de selectie dan wordt de roze 
 
 De jaren zijn verdeeld in historische jaren, prognosejaren en doorkijkjaren, omdat de data een verschillend karakter heeft voor deze categorieen. De data voor historische jaren is berekend met door het CBS verzamelde emissiestatistieken op een hoog ruimtelijk detailniveau. De prognosejaren zijn gebaseerd op emissieprognoses van het PBL, waarin beleid en economische ontwikkelingen worden meegenomen. Voor het jaar 2040 (doorkijkjaar) wordt de data alleen geagreggeerd per natuurgebied getoond. De doorkijkjaren kennen een grotere onzekerheid dan de prognosejaren, en daarom wordt voor deze jaren maar een beperkt aantal depositiestatistieken doorgerekend.
 
-De kaart toont per hexagoon de ontwikkeling in de depositie ten opzichte van 2020. Hiermee kan je de ruimtelijke verschillen in de ontwikkeling bekijken voor het hele gebied of voor een specifiek habitattype.
+De kaart toont per hexagoon de ontwikkeling in de depositie ten opzichte van 2020. Bekijk hiermee hoe de ontwikkeling ruimtelijk verschilt, binnen een gebied of een specifiek habitattype.
