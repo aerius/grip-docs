@@ -1,8 +1,8 @@
 ### Opbouw en ontwikkeling stikstofdepositie
 
-De tabel toont de opbouw van de stikstofdepositie op het geselecteerde hexagoon van het gekozen jaar.
+De tabel toont de opbouw van de stikstofdepositie op het geselecteerde hexagoon van het gekozen jaar. Selecteer een hexagoon op de kaart als er geen tabel getoond wordt.
 
-De bovenste balk is de totale depositie op het geselecteerde hexagoon van het geselecteerde jaar. De balken op de tweede rij tonen de verdeling tussen de Nederlandse, buitenlandse en Overige bijdrage.
+De bovenste balk is de totale depositie op het geselecteerde hexagoon van het geselecteerde jaar. De balken op de tweede rij tonen de verdeling tussen de Nederlandse, buitenlandse en overige bijdrage.
 
 U kunt ook een van de balken selecteren. Op de kaart verschijnt dan de stikdepositie van het geselecteerde onderdeel. Het dik omrande hexagoon is het selecteerde hexagoon.
 
