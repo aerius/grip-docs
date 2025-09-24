@@ -1,6 +1,6 @@
 ### Ontwikkeling stikstofdepositie
 
-De grafiek toont de depositietrend voor het gebied als geheel, door voor een aantal jaren de gemiddelde depositie en de spreiding in voorkomende depositiewaarden weer te geven. De grafiek is gebaseerd op de depositieresultaten op alle relevante hexagonen in het gebied, dat zijn alle hexagonen die (deels) overlappen mete een stikstofgevoelig habitattype. U vindt meer informatie over ‘relevante’ hexagonen in het handboek Calculator, te vinden via Over AERIUS Monitor.
+De grafiek toont de depositietrend voor het gebied als geheel, door de gemiddelde depositie en de spreiding in voorkomende depositiewaarden weer te geven voor de beschikbare jaartallen. De grafiek is gebaseerd op de depositie op alle relevante hexagonen in het gebied, dat zijn alle hexagonen die (deels) overlappen met een stikstofgevoelig habitattype. U vindt meer informatie over ‘relevante’ hexagonen in het handboek Calculator, te vinden via Over AERIUS Monitor.
 
 In iedere staaf zijn drie getallen te zien:
 In de roze balk in het midden van de staven is de gemiddelde depositie voor het gebied weergegeven. Dit betreft een gewogen gemiddelde. Voor een uitleg hoe de gemiddelde depositie wordt berekend, zie paragraaf 5.4 van het handboek Data, te vinden via Over AERIUS Monitor.
