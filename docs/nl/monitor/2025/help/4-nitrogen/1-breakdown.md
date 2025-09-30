@@ -2,11 +2,11 @@
 
 Bekijk hoe verschillende bronnen bijdragen aan de opbouw van de stikstofdepositie op het gekozen gebied. Selecteer een sectorgroep om de bijdrage op de kaart te bekijken.
 
-#### Grafiek
-De grafiek toont voor meerdere jaren de bijdrage aan de stikstofdepositie vanuit verschillende bronnen op stikstofgevoelige natuur in Nederland. Het betreft de relatieve bijdrage aan de gemiddelde totale stikstofdepositie. Voor een uitleg hoe de gemiddelde depositie wordt berekend, zie paragraaf 5.4 van het handboek Data, te vinden via Over AERIUS Monitor.
-
 #### Selector
-Via de selector is het mogelijk een gebied te kiezen en een bepaalde sectorgroep en sector. Deze selectie bepaalt welke kaartlaag er getoond wordt, en beïnvloedt ook de getoonde informatie in de grafiek. 
+Via de selector is het mogelijk een gebied te kiezen en een bepaalde sectorgroep en sector. Deze selectie bepaalt welke informatie er op de kaart en in de grafiek getoond wordt. 
+
+#### Grafiek
+De grafiek toont voor meerdere jaren de bijdrage aan de stikstofdepositie vanuit verschillende bronnen op stikstofgevoelige natuur in Nederland. Het betreft de relatieve bijdrage aan de gemiddelde totale stikstofdepositie. Voor een uitleg hoe de gemiddelde depositie wordt berekend, zie paragraaf 5.4 van het [handboek Data](https://www.aeriusproducten.nl/documenten/publicaties/2024/10/1/aerius-handboek-data-2024).
 
 #### Kaart 
 Wanneer een sectorgroep gekozen wordt, toont de kaart de ruimtelijke verdeling van de betreffende depositie, en toont de grafiek de bijdrage van de verschillende sectoren binnen deze sectorgroep. In de grafiek zijn de verschillende bronnen weergegeven. Door uw muis te bewegen over een bron krijgt u te zien om welke bron het gaat, en wat de absolute bijdrage van deze bron is.
