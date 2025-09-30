@@ -12,4 +12,4 @@ Onder de tabel staan alle stikstofdeposities van het gebied uiteengezet in een g
 #### Kaart
 Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom-level 3 (16 ha). wanneer wordt uitgezoomd tot zoom-level 4, wordt voor deze hexagonen de data van het middelste zoom-level 3 hexagoon getoond.
 
-U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het handboek Data, te vinden via Over AERIUS Monitor.
+U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://www.aeriusproducten.nl/documenten).
