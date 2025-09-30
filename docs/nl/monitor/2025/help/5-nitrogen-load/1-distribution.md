@@ -10,6 +10,6 @@ De tabel toont de totale stikstofdepositie van het geselecteerde hexagoon voor a
 Onder de tabel staan alle stikstofdeposities van het gebied uiteengezet in een grafiek voor het geselecteerde jaar en habitattype. De rode lijn geeft aan waar het geselecteerde hexagoon zich bevindt ten opzichte van andere hexagonen binnen het geselecteerde gebied en habitattype. Tevens geeft een gekleurde balk boven het diagram aan welke depositie onder de KDW (groen) en welke zich boven de KDW (paars) bevindt.
 
 #### Kaart
-Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom-level 3 (16 ha). wanneer wordt uitgezoomd tot zoom-level 4, wordt voor deze hexagonen de data van het middelste zoom-level 3 hexagoon getoond.
+Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom level 3 (16 ha). Wanneer wordt uitgezoomd tot zoom level 4, wordt voor deze hexagonen de data van het middelste zoom level 3 hexagoon getoond.
 
 U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://www.aeriusproducten.nl/documenten).
