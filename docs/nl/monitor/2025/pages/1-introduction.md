@@ -21,4 +21,5 @@ De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden.
 Klik rechtsboven op 'Voorkeur' om instellingen aan te passen. 
 * Kies om depositiewaarden in kg of mol weer te geven
 * Kies om wel of geen depositiecijfers op de kaart te zien bij inzoomen
-* Kies om kaartlagen automatisch aan te zetten afhankelijk van de context of om zelf de gewenste kaartlagen aan te vinken
+
+Open het kaartlagenpaneel boven iedere kaart, om middels de vinkjes de verschillende kaartlagen aan of uit te zetten of andere achtergrondkaarten te gebruiken.
