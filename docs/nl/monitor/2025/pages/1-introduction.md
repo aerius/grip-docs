@@ -22,4 +22,4 @@ Klik rechtsboven op 'Voorkeur' om instellingen aan te passen.
 * Kies om depositiewaarden in kg of mol weer te geven
 * Kies om wel of geen depositiecijfers op de kaart te zien bij inzoomen
 
-Open het kaartlagenpaneel boven iedere kaart, om middels de vinkjes de verschillende kaartlagen aan of uit te zetten of andere achtergrondkaarten te gebruiken.
+Gebruik het kaartlagenpaneel om de kaartweergave aan te passen: vink kaartlagen aan of uit, en selecteer een andere (achtergrond)kaart uit de keuzelijst.
