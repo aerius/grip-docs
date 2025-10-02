@@ -13,7 +13,7 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 ### Gegevens exporteren 
 
 De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
-* Download hier een [GeoPackage](https://link.aerius.nl/monitor/geopackage-monitor_2025-01-06.zip) (49 MB) met de stikstofbelasting en KDW voor ieder zoom level 3 hexagoon, per dataset en jaar.
+* Download hier een [GeoPackage](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) met voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar.
 * Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
 
 ### Voorkeuren instellen
@@ -21,4 +21,5 @@ De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden.
 Klik rechtsboven op 'Voorkeur' om instellingen aan te passen. 
 * Kies om depositiewaarden in kg of mol weer te geven
 * Kies om wel of geen depositiecijfers op de kaart te zien bij inzoomen
-* Kies om kaartlagen automatisch aan te zetten afhankelijk van de context of om zelf de gewenste kaartlagen aan te vinken
+
+Voor elke kaart afzonderlijk kunt u de weergave aanpassen via het kaartlagenpaneel: vink kaartlagen aan of uit, en selecteer een andere (achtergrond)kaart uit de keuzelijst.
