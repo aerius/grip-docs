@@ -1,5 +1,9 @@
 ## Over Monitor
 
+[![Video Thumbnail](./video-thumbnail.png)](https://monitor2025-intro.aerius.nl/monitor-intro)
+
+Bekijk de [interactieve demo van AERIUS Monitor](https://monitor2025-intro.aerius.nl/monitor-intro) om een overzicht te krijgen van de functionaliteiten en mogelijkheden.
+
 ### Inleiding
 
 Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worden in Nederland diverse gegevens vastgesteld en gebruikt. AERIUS Monitor geeft overzichtelijk en gedetailleerd inzicht in een deel van deze gegevens. Het gaat om gegevens over:
