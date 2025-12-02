@@ -1,6 +1,6 @@
 ### Habitattypen/ leefgebieden
 
-De tabel toont de oppervlakte van alle  stikstofgevoelige habitattypen die in het gebied voorkomen.
+De tabel toont de oppervlakte van alle stikstofgevoelige habitattypen die in het gebied voorkomen.
 Er wordt onderscheid gemaakt naar **doelstellingshabitats** en onderliggende **gekarteerde habitattypen**. 
 
 Een doelstellingshabitat is een verzamelcategorie, waarbinnen een of meerdere gekarteerde habitattypen vallen. Doelstellingen, voor oppervlakte en kwaliteit, worden altijd op het niveau van het doelstellingshabitat vastgesteld. Deze doelstellingen worden in de tabel getoond.
