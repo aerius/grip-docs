@@ -11,7 +11,7 @@ Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Neder
 De mate van stikstofbelasting van de stikstofgevoelige natuur wordt onderverdeeld in vijf categorieën:
 
 - Donkergroen (geen overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die meer dan 70 mol/ha/jaar onder de KDW van die habitats ligt.
-- Lichtgroen (naderende overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie tussen 0 en 70 mol/ha/jaar onder de KDW.
+- Lichtgroen (bijna overbelast) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie tussen 0 en 70 mol/ha/jaar onder de KDW.
 - Heel lichtpaars (lichte overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie tussen 0 en 70 mol/ha/jaar boven de KDW.
 - Lichtpaars (matige overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 70 mol/ha/jaar boven de KDW en lager is dan 2 maal de KDW.
 - Donkerpaars (sterke overbelasting) geeft aan welk percentage van de oppervlakte van de stikstofgevoelige natuur belast wordt met een stikstofdepositie die hoger is dan 2 maal de KDW.
