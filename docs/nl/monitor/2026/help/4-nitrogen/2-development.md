@@ -2,9 +2,9 @@
 
 Bekijk hoe de stikstofdepositie zich ontwikkelt. Kies een gebied in de selector, en bekijk de ontwikkeling van de depositie.
 
-#### Dataset
+#### Selector
 
-Via de selector is het mogelijk om een dataset te kiezen. M25 is de dataset van monitoringsronde 2025 en bevat gegevens op zoomlevel 3. M26 is de dataset van monitoringsronde 2026 en bevat gegevens op zoomlevel 1.
+Via de selector is het mogelijk om een dataset te kiezen. Een dataset verwijst naar een bepaalde monitoringsronde. 
 
 #### Grafiek
 
@@ -17,11 +17,9 @@ In iedere staaf zijn drie getallen te zien:
 
 Indien er 28 of minder hexagonen aanwezig zijn in de selectie dan wordt de roze balk met percentielwaarden niet getoond, enkel het gewogen gemiddelde.
 
-De grafiek is standaard gebaseerd op waarden in kg in plaats van mol. Als dit in de voorkeuren wordt aangepast, kunnen de waardestappen op de x-as minder logisch worden weergegeven.
-
 #### Kaart
 
-De kaart toont per hexagoon de ontwikkeling van de depositie ten opzichte van het referentiejaar van de dataset. Voor M25 is dit 2023 en voor M26 is dit 2024. Hiermee wordt inzichtelijk hoe de ontwikkeling ruimtelijk verschilt binnen een gebeid of voor een specifiek habitattype. Als het gekozen jaar in de selectiebalk gelijk is aan het referentiejaar, wordt het hexagoon met diagonale lijnen weergegeven.
+De kaart toont per hexagoon de ontwikkeling van de depositie voor het geselecteerde jaar ten opzichte van het referentiejaar van de dataset. Voor M25 is dit 2023 en voor M26 is dit 2024. Hiermee wordt inzichtelijk hoe de ontwikkeling ruimtelijk verschilt binnen een gebied of voor een specifiek habitattype. Als de waarde voor de hexagoon voor het geselecteerde jaae gelijk is aan de waarde van het referentiejaar, dan wordt het hexagoon met diagonale arcering weergegeven. Dit is voor het referentiejaar zelf altijd het geval.
 
 #### Jaartallen
 

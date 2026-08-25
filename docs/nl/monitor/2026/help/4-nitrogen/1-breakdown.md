@@ -2,13 +2,9 @@
 
 Bekijk hoe verschillende bronnen bijdragen aan de opbouw van de stikstofdepositie op het gekozen gebied. Selecteer een sectorgroep om de bijdrage op de kaart te bekijken.
 
-#### Dataset
-
-Via de selector is het mogelijk om een dataset te kiezen. M25 is de dataset van monitoringsronde 2025 en bevat gegevens op zoomlevel 3. M26 is de dataset van monitoringsronde 2026 en bevat gegevens op zoomlevel 1.
-
 #### Selector
 
-Via de selector is het mogelijk een gebied te kiezen en een bepaalde sectorgroep en sector. Deze selectie bepaalt welke informatie er op de kaart en in de grafiek getoond wordt. 
+Via de selector is het mogelijk een gebied te kiezen en een bepaalde sectorgroep en sector. Deze selectie bepaalt welke informatie er op de kaart en in de grafiek getoond wordt. Het is ook mogelijk om een dataset te kiezen. Een dataset verwijst naar een bepaalde monitoringsronde. 
 
 #### Grafiek
 

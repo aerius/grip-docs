@@ -7,7 +7,7 @@ De tabel toont de opbouw van de stikstofdepositie op het geselecteerde hexagoon 
 
 De bovenste balk is de totale depositie op het geselecteerde hexagoon van het geselecteerde jaar. De balken op de tweede rij tonen de verdeling tussen de Nederlandse, buitenlandse en overige bijdrage. U kunt ook een van de balken selecteren. Op de kaart verschijnt dan de stikstofdepositie van het geselecteerde onderdeel. Het dik omrande hexagoon is het geselecteerde hexagoon.
 
-Het is mogelijk om op een categorie te selecteren door erop te klikken. Als u een categorie op de tweede rij selecteert, verschijnt er een tabel met een verdere verdeling van de stikstofdepositie over sectoren van het geselecteerde hexagoon van het geselecteerde jaar. Daarnaast krijgt u informatie over de ontwikkeling van de stikstofdepositie tussen het gekozen jaar, en het jaar 2020. 
+Het is mogelijk om een categorie te selecteren door erop te klikken. Als u een categorie op de tweede rij selecteert, verschijnt er een tabel met een verdere verdeling van de stikstofdepositie over sectoren van het geselecteerde hexagoon van het geselecteerde jaar. Daarnaast krijgt u informatie over de ontwikkeling van de stikstofdepositie tussen het gekozen jaar, en het jaar 2020. 
 
 #### Kaart
 

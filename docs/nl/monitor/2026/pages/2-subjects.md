@@ -35,4 +35,4 @@ Voor sommige onderwerpen is het mogelijk om:
 
 Door rechtsboven in de kaart op het kaartlagenicoon te klikken, worden de beschikbare kaartlagen weergegeven. Door op het pijltje voor de kaartlaag te klikken, opent de legenda en het schuifje om de transparantie van de kaartlaag aan te passen. Achter de kaartlaag is te zien of een kaartlaag aanstaat (vinkje) of uit (liggend streepje). Door op het symbool achter de kaartlaag te klikken, kan de kaartlaag aan- en uitgezet worden.
 
-Als een natuurgebeid is geselecteerd, verschijnt bij de kaartlagen de optie om 'Alle natuurgebeiden' of 'Alleen gekozen gebeid' te kiezen. Bij de 2e optie toont de kaart alleen de hexagonen die bij het geselecteerde natuurgebeid horen. De optie 'Alle natuurgebeiden' is standaard geselecteerd en toont alle hexagonen.
+Als een natuurgebied is geselecteerd, verschijnt bij de kaartlagen de optie om 'Alle natuurgebieden' of 'Alleen gekozen gebied' te kiezen. Bij de 2e optie toont de kaart alleen de hexagonen die bij het geselecteerde natuurgebied horen. De optie 'Alle natuurgebieden' is standaard geselecteerd en toont gegevens voor alle natuurgebieden op de kaart.
