@@ -1,6 +1,10 @@
 ### Ontwikkeling stikstofbelasting
 Bekijk of de stikstofdepositie de kritische depositiewaarde overschrijdt, en hoe dit ontwikkelt in de tijd.
 
+#### Dataset
+
+Via de selector is het mogelijk om een dataset te kiezen. M25 is de dataset van monitoringsronde 2025 en bevat gegevens op zoomlevel 3. M26 is de dataset van monitoringsronde 2026 en bevat gegevens op zoomlevel 1.
+
 #### Selector
 
 Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Nederland getoond. Een Natura 2000-gebied kan worden geselecteerd om de gebiedsinformatie weer te geven. Binnen een gebied kan een habitat gekozen worden om de ontwikkeling van de stikstofbelasting voor dat habitattype te tonen.
@@ -27,6 +31,6 @@ De jaren zijn verdeeld in historische jaren, prognosejaren en doorkijkjaren. Voo
 
 #### Kaart
 
-Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Het meest gedetailleerde schaalniveau is zoom level 3 (16 ha). Wanneer wordt uitgezoomd tot zoom level 4, wordt voor deze hexagonen de data van het middelste zoom level 3 hexagoon getoond.
+Voor het geselecteerde habitattype toont de kaart per hexagoon de afstand tot de KDW. Dit wordt weergegeven in de verschillende categoriën voor overschrijding. Voor M25 is het meest gedetailleerde schaalniveau een zoom level 3 hexagoon (16 ha). Voor M26 is dit een zoom level 1 hexagoon (1 ha).
 
 U vindt de uitleg van de methode voor het berekenen van de mate van stikstofbelasting in paragraaf 5.5 van het [handboek Data](https://link.aerius.nl/monitor/handboeken).

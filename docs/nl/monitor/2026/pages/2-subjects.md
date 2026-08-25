@@ -23,7 +23,7 @@ Gebruik de selector om de gewenste informatie op de kaart te zien, of personalis
 
 In de selector is het mogelijk om via het pijltje naar beneden een optielijst te openen en daar een keuze uit te maken. De pijltjes naast de lijst maken het mogelijk om de voorgaande optie te selecteren (pijltje naar links) of de volgende (pijltje naar rechts.
 De volgende selectie opties zijn mogelijk:
-- Kies voor dataset M25 (monitoringsronde 2025)
+- Kies voor dataset M25 (monitoringsronde 2025) of dataset M26 (monitoringsronde 2026)
 - Selecteer een natuurgebied door een gebied uit de lijst aan te klikken of te kiezen voor 'Alle natuurgebieden' en dan OF op één van de punten op de kaart te klikken OF een voortouwnemer te kiezen uit de lijst en daaronder het natuurgebied aan te klikken.
   
 Voor sommige onderwerpen is het mogelijk om:
@@ -34,3 +34,5 @@ Voor sommige onderwerpen is het mogelijk om:
 **Kaartlagen**
 
 Door rechtsboven in de kaart op het kaartlagenicoon te klikken, worden de beschikbare kaartlagen weergegeven. Door op het pijltje voor de kaartlaag te klikken, opent de legenda en het schuifje om de transparantie van de kaartlaag aan te passen. Achter de kaartlaag is te zien of een kaartlaag aanstaat (vinkje) of uit (liggend streepje). Door op het symbool achter de kaartlaag te klikken, kan de kaartlaag aan- en uitgezet worden.
+
+Als een natuurgebeid is geselecteerd, verschijnt bij de kaartlagen de optie om 'Alle natuurgebeiden' of 'Alleen gekozen gebeid' te kiezen. Bij de 2e optie toont de kaart alleen de hexagonen die bij het geselecteerde natuurgebeid horen. De optie 'Alle natuurgebeiden' is standaard geselecteerd en toont alle hexagonen.
