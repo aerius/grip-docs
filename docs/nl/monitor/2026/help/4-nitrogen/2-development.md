@@ -15,7 +15,7 @@ In iedere staaf zijn drie getallen te zien:
 - **10e percentiel:** het getal links van de staaf geeft het 10-percentiel van de voorkomende depositiewaarden in het gebied weer. Dit betekent dat 10% van de beschouwde hexagonen een depositie heeft die lager is dan of gelijk aan deze waarde. De overige 90% heeft een hogere depositie.
 - **90e percentiel:** het getal rechts van de staaf geeft het 90-percentiel van de voorkomende depositiewaarden in het gebied weer. Dit betekent dat 90% van de beschouwde hexagonen een depositie heeft die lager is dan of gelijk aan deze waarde. De overige 10% heeft een hogere depositie.
 
-Als de selectie 28 hexagonen of minder bevat, wordt de percentielwaarden niet getoond. In dat geval wordt alleen het gewogen gemiddelde weergegeven.
+Als de selectie 28 hexagonen of minder bevat worden de percentielwaarden niet getoond. In dat geval wordt alleen het gewogen gemiddelde weergegeven.
 
 #### Kaart
 

@@ -27,5 +27,4 @@ Klik rechtsboven op 'Voorkeur' om instellingen aan te passen.
 
 Voor elke kaart afzonderlijk kunt u de weergave aanpassen via het kaartlagenpaneel: vink kaartlagen aan of uit, en selecteer een andere (achtergrond)kaart uit de keuzelijst.
 
-De grafieken gebruiken standaard waarden in kg. Onder voorkeuren kan de weergave aangepast worden naar waarden in mol. Hierdoor kunnen de waardestappen op de x-as minder logisch worden weergegeven. Voor de conversie van $\text{kg N/ha/jaar}$ naar $\text{mol N/ha/jaar}$ is de volgende formule gebruikt:
-$\text{mol N/ha/jaar} = \text{kg N/ha/jaar} \times \frac{1000}{14,007 \text{g/mol}}$.
+De grafieken gebruiken standaard waarden in kg. Onder voorkeuren kan de weergave aangepast worden naar waarden in mol. Hierdoor kunnen de waardestappen op de x-as minder logisch worden weergegeven.
