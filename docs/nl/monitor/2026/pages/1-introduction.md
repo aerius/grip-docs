@@ -16,7 +16,7 @@ Om een beeld te krijgen van de stikstofproblematiek in relatie tot natuur, worde
 ### Gegevens exporteren 
 
 De gegevens in AERIUS Monitor zijn als JSON en als GeoPackage te downloaden. 
-* Download hier [GeoPackage (2025)](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) en [GeoPackage (2026)](https://link.aerius.nl/monitor/geopackage-monitor-2026.zip). Geopackage 2025 bevat de voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar. Geopackage 2026 bevat voor ieder zoom level 1 hexagoon de KDW en de stikstofbelasting voor het referentiejaar. 
+* Download hier [GeoPackage (2025)](https://link.aerius.nl/monitor/geopackage-monitor-2025.zip) en [GeoPackage (2026)](https://link.aerius.nl/monitor/geopackage-monitor-2026.zip). Geopackage 2025 bevat voor ieder zoom level 3 hexagoon de KDW en de stikstofbelasting per jaar. Geopackage 2026 bevat voor ieder zoom level 1 hexagoon de KDW en de stikstofbelasting voor het referentiejaar. 
 * Om zelf analyses uit te voeren met gegevens, gebruik de Monitor API (een programmeerinterface). Ga naar de [AERIUS Monitor API](https://fame2026.aerius.nl/api/swagger-ui/index.html) om de gegevens die AERIUS Monitor gebruikt, te downloaden als JSON.
 
 ### Voorkeuren instellen
@@ -27,5 +27,5 @@ Klik rechtsboven op 'Voorkeur' om instellingen aan te passen.
 
 Voor elke kaart afzonderlijk kunt u de weergave aanpassen via het kaartlagenpaneel: vink kaartlagen aan of uit, en selecteer een andere (achtergrond)kaart uit de keuzelijst.
 
-De grafiek is standaard gebaseerd op waarden in $\text{kg}$ in plaats van $\text{mol}$. Als dit in de voorkeuren wordt aangepast, kunnen de waardestappen op de x-as minder logisch worden weergegeven. Gebruik voor de conversie van $\text{kg N/ha/jaar}$ naar $\text{mol N/ha/jaar}$ de volgende formule:
+De grafieken gebruiken standaard waarden in kg. Onder voorkeuren kan de weergave aangepast worden naar waarden in mol. Hierdoor kunnen de waardestappen op de x-as minder logisch worden weergegeven. Voor de conversie van $\text{kg N/ha/jaar}$ naar $\text{mol N/ha/jaar}$ is de volgende formule gebruikt:
 $\text{mol N/ha/jaar} = \text{kg N/ha/jaar} \times \frac{1000}{14,007 \text{g/mol}}$.
