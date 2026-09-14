@@ -7,7 +7,7 @@ Indien er geen natuurgebied is geselecteerd, wordt de informatie voor heel Neder
 
 #### Grafiek
 
-De grafiek toont voor meerdere jaren de mate van stikstofbelasting van de stikstofgevoelige natuur. De mate van stikstofbelasting, uitgedrukt in een percentage, wordt gebruikt bij de toetsing aan de omgevingswaarden uit de Wet natuurbescherming. Een omgevingswaarde is een resultaatsverplichting voor de oppervlakte van de stikstofgevoelige natuur met een stikstofbelasting lager dan de kritische depositiewaarde (KDW). Voor de jaren 2025, 2030 en 2035 zijn omgevingswaarden vastgesteld op respectievelijk minimaal 40%, 50% en 74%. De omgevingswaarden gelden voor alle Nederlandse Natura 2000-gebieden samen en niet per gebied.
+De grafiek toont voor meerdere jaren de mate van stikstofbelasting van de stikstofgevoelige natuur. De mate van stikstofbelasting, uitgedrukt in een percentage, wordt gebruikt bij de toetsing aan de omgevingswaarden uit de Omgevingswet. Een omgevingswaarde is een resultaatsverplichting voor de oppervlakte van de stikstofgevoelige natuur met een stikstofbelasting lager dan de kritische depositiewaarde (KDW). Voor de jaren 2025, 2030 en 2035 zijn omgevingswaarden vastgesteld op respectievelijk minimaal 40%, 50% en 74%. De omgevingswaarden gelden voor alle Nederlandse Natura 2000-gebieden samen en niet per gebied.
 
 De kritische depositiewaarde is gedefinieerd als de grens waarboven het risico bestaat dat de kwaliteit van een habitat significant wordt aangetast door de verzurende en/of vermestende invloed van atmosferische stikstofdepositie.
 
