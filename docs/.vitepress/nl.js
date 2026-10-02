@@ -7,14 +7,14 @@ export const nl = defineConfig({
     nav: [
       {
         text: "Monitor",
-        link: "/monitor/2024/",
+        link: "/monitor/2026/pages/1-introduction",
         activeMatch: "/monitor/*",
       },
     ],
     sidebar: {
-      "/monitor/2024/": {
-        base: "/monitor/2024",
-        items: sidebarMonitor2024(),
+      "/monitor/2026/": {
+        base: "/monitor/2026/pages",
+        items: sidebarMonitor2026(),
       },
     },
 
@@ -25,6 +25,10 @@ export const nl = defineConfig({
   },
 });
 
-function sidebarMonitor2024() {
-  return [{ link: `/1-home`, text: "Home" }];
+function sidebarMonitor2026() {
+  return [
+    { link: `/1-introduction`, text: "Over Monitor" },
+    { link: `/2-subjects`, text: "Onderwerpen" },
+    { link: `/3-accountability`, text: "Dataverantwoording" },
+  ];
 }
