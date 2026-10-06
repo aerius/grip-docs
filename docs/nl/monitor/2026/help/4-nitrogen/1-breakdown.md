@@ -8,7 +8,7 @@ Via de selector is het mogelijk een gebied te kiezen en een bepaalde sectorgroep
 
 #### Grafiek
 
-De grafiek toont voor meerdere jaren de bijdrage aan de stikstofdepositie vanuit verschillende bronnen op stikstofgevoelige natuur in Nederland. Het betreft de relatieve bijdrage aan de gemiddelde totale stikstofdepositie. Voor een uitleg hoe de gemiddelde depositie wordt berekend, zie paragraaf 5.4 van het [handboek Data](https://link.aerius.nl/monitor/handboeken).
+De grafiek toont voor meerdere jaren de bijdrage aan de stikstofdepositie vanuit verschillende bronnen op stikstofgevoelige natuur in Nederland. Het betreft de relatieve bijdrage aan de gemiddelde totale stikstofdepositie. Voor een uitleg hoe de gemiddelde depositie wordt berekend, zie het [handboek Data](https://link.aerius.nl/monitor/handboeken).
 
 #### Kaart
 
