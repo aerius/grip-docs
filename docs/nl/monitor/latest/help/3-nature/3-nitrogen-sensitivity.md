@@ -1,4 +1,4 @@
-### Stikstofgevoeligheid
+## Stikstofgevoeligheid
 
 De kaart geeft aan hoe stikstofgevoelig de verschillende delen van het gebied zijn. Hoe hoger de stikstofgevoeligheid, hoe kwetsbaarder het gebied is voor stikstofdepositie.
 
